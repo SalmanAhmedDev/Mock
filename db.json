@@ -8,10 +8,17 @@
       "notifications": [
         {
           "description": "Message",
-          "title": "Title ",
+          "title": "open utl title ",
           "action": "open-url",
           "extras": {
             "url": "http://www.purevpn.com"
+          }
+        },{
+          "description": "Message",
+          "title": "member Area login ",
+          "action": "memberArea",
+          "extras": {
+            "slug": "advancefeatures"
           }
         }
       ]
