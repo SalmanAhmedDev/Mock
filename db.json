@@ -1,0 +1,20 @@
+{
+  "getuserNotifications": {
+    "header": {
+      "code": "0",
+      "message": "Success"
+    },
+    "body": {
+      "notifications": [
+        {
+          "description": "Message",
+          "title": "Title ",
+          "action": "open-url",
+          "extras": {
+            "url": "http://www.purevpn.com"
+          }
+        }
+      ]
+    }
+  }
+}
