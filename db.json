@@ -8,7 +8,7 @@
       "notifications": [
         {
           "description": "Message",
-          "title": "open utl title ",
+          "title": "Open utl title ",
           "action": "open-url",
           "extras": {
             "url": "http://www.purevpn.com"
