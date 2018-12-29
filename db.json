@@ -20,6 +20,13 @@
           "extras": {
             "slug": "advancefeatures"
           }
+        },{
+          "description": "Message",
+          "title": "Select Setting",
+          "action": "Location",
+          "extras": {
+            "slug": "Location"
+          }
         }
       ]
     }
