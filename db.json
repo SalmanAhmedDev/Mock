@@ -28,7 +28,7 @@
             "slug": "Location"
           }
         },{
-          "description": "Message",
+          "description": "Message message",
           "title": "open-app title",
           "action": "open-app",
           "extras": {
