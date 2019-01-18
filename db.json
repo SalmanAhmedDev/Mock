@@ -29,7 +29,7 @@
           }
         },{
           "description": "Message",
-          "title": "open-app",
+          "title": "open-app title",
           "action": "open-app",
           "extras": {
             "slug": "open-app"
