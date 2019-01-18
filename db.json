@@ -27,6 +27,13 @@
           "extras": {
             "slug": "Location"
           }
+        },{
+          "description": "Message",
+          "title": "open-app",
+          "action": "open-app",
+          "extras": {
+            "slug": "open-app"
+          }
         }
       ]
     }
