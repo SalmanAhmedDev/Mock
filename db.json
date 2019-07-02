@@ -7,9 +7,9 @@
     "body": {
       "policy": {
       "id": 4,
-    "action_yes": "nps",
-    "action_no": "live_chat",
-    "method": "desired_outcome"
+   "action_yes": "",
+    "action_no": "",
+    "method": "nps"
     }
     }
   }
