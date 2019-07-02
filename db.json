@@ -1,41 +1,16 @@
 {
-  "getuserNotifications": {
+  "getuserNPS": {
     "header": {
       "code": "0",
       "message": "Success"
     },
     "body": {
-      "notifications": [
-        {
-          "description": "Message",
-          "title": "Open utl title ",
-          "action": "open-url",
-          "extras": {
-            "url": "http://www.purevpn.com"
-          }
-        },{
-          "description": "Message",
-          "title": "member Area login ",
-          "action": "memberArea",
-          "extras": {
-            "slug": "advancefeatures"
-          }
-        },{
-          "description": "Message",
-          "title": "Select Setting",
-          "action": "Location",
-          "extras": {
-            "slug": "Location"
-          }
-        },{
-          "description": "Message message",
-          "title": "open-app title",
-          "action": "open-app",
-          "extras": {
-            "slug": "open-app"
-          }
-        }
-      ]
+      "policy": {
+      "id": 4,
+      "action_yes": "nps",
+      "action_no": "live_chat",
+      "method": "desired_outcome"
+    }
     }
   }
 }
